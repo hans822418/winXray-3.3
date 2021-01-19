@@ -10,7 +10,7 @@ winXray[:loud_sound:](http://dict.youdao.com/dictvoice?audio=winxray&type=2) 是
 
 **本软件源码已放弃版权贡献到公共域** ，源码可使用 [aardio](http://www.aardio.com) 编译生成单文件绿色EXE，**[点这里下载](./../../raw/master/release/winXray.7z)** （ [64位版本](./../../raw/master/release/winXray.7z) / [32位版本](./../../raw/master/release/winXray32.7z) ），解压即可直接使用( 体积很小仅  **[6.1 MB](./../../raw/master/release/winXray.7z)** - 已自带 V2Ray Core ）。  
 
-如果未开代理软件不能访问 Github 下载服务器，请使用下面的镜像地址下载(缓存12小时)：    
+如果未开代理软件不能访问 Github 下载服务器，请使用下面的镜像地址下载( 缓存12小时 )：    
 [https://cdn.jsdelivr.net/gh/winXray(或当前fork用户名)/winXray/release/winXray.7z](https://cdn.jsdelivr.net/gh/winXray/winXray/release/winXray.7z)    
 
 # 使用前必读    
