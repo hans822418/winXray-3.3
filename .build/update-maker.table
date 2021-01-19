@@ -1,0 +1,6 @@
+{
+updateUrl="https://raw.githubusercontent.com/winXray/winXray/master/release/update/";
+singleFile=1;
+description="发布 v3.3：一键启用、更新路由规则，稍后删库尽快fork，人生苦短不多废话";
+outputDir="/release/update/"
+}
